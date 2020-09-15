@@ -2,11 +2,11 @@ This is an extremely interesting text.
 This is the result to he work of AStudent 
 and BStudent.
 
-Meanwhile BStudent calls up AStudent. BStudent 
-tells him he will improve this part of the text, 
-he will do this on a different branch so that he 
-will not interfere with AStudent’s work.
-*PLACE HOLDER: BSTUDENT HAS A CRUCIAL IMPROVEMENT*
+Meanwhile BStudent cloned the master branch on his local machine 
+and created a new branch called b_modification. 
+He then proceeded to make modifications to the second paragraph of text.
+He tried to explain exactly what he did and he did so in a verbose
+and, frankly, boring fashion.
 
 AStudent suddenly realises that there is a 
 very nice text, that copes very nicely with 
