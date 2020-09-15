@@ -3,7 +3,7 @@ This is the result to he work of AStudent
 and BStudent.
 
 Meanwhile BStudent cloned the master branch on his local machine 
-and created a new branch called giulio_branch. 
+and created a new branch called b_modification. 
 He then proceeded to make modifications to the second paragraph of text.
 He tried to explain exactly what he did and he did so in a verbose
 and, frankly, boring fashion.
